@@ -38,5 +38,5 @@ O código-fonte pode ser acessado aqui:
 
 
 ## 🔗 Simulação no Tinkercad
-[Acesse aqui a simulação do semáforo no Tinkercad](https://www.tinkercad.com/things/8Uh4PAeMXhI-spectacular-kieran)
+[Acesse aqui a simulação no Tinkercad](https://www.tinkercad.com/things/8Uh4PAeMXhI-spectacular-kieran)
 
