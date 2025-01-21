@@ -17,7 +17,8 @@ Alarme utilizando Arduino.
 6. **O ciclo se repete** continuamente enquanto o alarme estiver ativado. 
 
 
-![image](https://github.com/user-attachments/assets/03e28a82-9871-4c5b-aa9a-74f37bc9ec5e)
+![image](https://github.com/user-attachments/assets/3950a218-5383-41ef-a8ad-2a1da9ff0c3d)
+
 
 ## 🔌 Esquema de Ligações  
 
